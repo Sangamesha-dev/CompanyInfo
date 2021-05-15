@@ -1,0 +1,25 @@
+.menus a {
+    padding: 0 5px;
+}
+
+.navbar-light .menus .navbar-brand:hover {
+    color: #1045be;
+}
+.w-5 {
+    display: none;
+}
+.show-data .show-pages p {
+    margin-top: 1em;
+}
+.pull-right-back {
+    float: right;
+}
+.delete-option {
+    cursor: pointer;
+}
+.form-group.required.control-label:before {
+    color: red;
+    content: "*";
+    position: absolute;
+    margin-left: -10px;
+}
